@@ -3,11 +3,13 @@
 ![MLDL.jpg](https://github.com/MawadaMhd/Classification/blob/main/MLDL.jpg)
 
 ## Overview
+
 This GitHub repository is dedicated to showcasing a collection of classification projects that leverage various machine learning algorithms to categorize and analyze datasets. Each project focuses on different classification tasks and provides insights into the implementation, methodology, and results achieved through the classification process.
+
 ---
 ## Projects
 
-Usage
+## Usage
 1. **Cloning the Repository:**
    - Clone this repository to your local machine using `git clone`.
 
@@ -19,10 +21,10 @@ Usage
 
 ---
 
-### License
+## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-### Contact
+## Contact
 For any questions, suggestions, or collaboration opportunities, please feel free to reach out via [mawadamhd12@gmail.com].
