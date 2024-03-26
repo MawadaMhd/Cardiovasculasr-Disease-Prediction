@@ -9,7 +9,7 @@ This GitHub repository is dedicated to showcasing a collection of classification
 ---
 
 ## Projects
-* **[Cardiovascular Disease Classification](https://github.com/MawadaMhd/Classification/tree/main/Cardiovascular%20Disease%20Predictive%20Modelling)**
+### **[Cardiovascular Disease Classification](https://github.com/MawadaMhd/Classification/tree/main/Cardiovascular%20Disease%20Predictive%20Modelling)**
   
 **Description:** This project aimed to develop a machine learning model that accurately predicts the likelihood of cardiovascular disease in individuals based on various risk factors and medical history.
 
