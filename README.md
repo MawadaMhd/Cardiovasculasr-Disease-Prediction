@@ -10,6 +10,8 @@ This GitHub repository is dedicated to showcasing a collection of classification
 
 ## Projects
 
+---
+
 ## Usage
 1. **Cloning the Repository:**
    - Clone this repository to your local machine using `git clone`.
