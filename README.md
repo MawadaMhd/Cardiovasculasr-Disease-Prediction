@@ -7,6 +7,7 @@
 This GitHub repository is dedicated to showcasing a collection of classification projects that leverage various machine learning algorithms to categorize and analyze datasets. Each project focuses on different classification tasks and provides insights into the implementation, methodology, and results achieved through the classification process.
 
 ---
+
 ## Projects
 
 ## Usage
