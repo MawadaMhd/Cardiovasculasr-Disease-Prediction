@@ -17,6 +17,13 @@ This GitHub repository is dedicated to showcasing a collection of classification
 
 **Results:** Random Forest Classifier (Accuracy: 98%, F1 Score (0.98, 0.99)
 
+### **[Tumor Benign Malignent Classification](https://github.com/MawadaMhd/Classification/tree/main/Tumors%20BenignMalignant%20Classification%2096)**
+
+**Description:** This project aimed to create a machine learning algorithm that can differentiate between benign and malignant tumors for early detection and treatment planning.
+
+**Algorithms Used:** Logistic Regression, Decision Tree Classifier, KNeighbors Classifier, Random Forest Classifier, SVC.
+
+**Results:** KNN Classifier (Accuracy: 99%, F1 Score (0.98, 0.99)
 ---
 
 ## Usage
