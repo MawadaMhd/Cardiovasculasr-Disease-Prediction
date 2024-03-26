@@ -24,6 +24,7 @@ This GitHub repository is dedicated to showcasing a collection of classification
 **Algorithms Used:** Logistic Regression, Decision Tree Classifier, KNeighbors Classifier, Random Forest Classifier, SVC.
 
 **Results:** KNN Classifier (Accuracy: 99%, F1 Score (0.98, 0.99)
+
 ---
 
 ## Usage
