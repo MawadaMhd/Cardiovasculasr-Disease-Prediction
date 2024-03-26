@@ -9,6 +9,13 @@ This GitHub repository is dedicated to showcasing a collection of classification
 ---
 
 ## Projects
+* **[Cardiovascular Disease Classification](https://github.com/MawadaMhd/Classification/tree/main/Cardiovascular%20Disease%20Predictive%20Modelling)**
+  
+**Description:** This project aimed to develop a machine learning model that accurately predicts the likelihood of cardiovascular disease in individuals based on various risk factors and medical history.
+
+**Algorithms Used:** Logistic Regression, Decision Tree Classifier, KNeighbors Classifier, Random Forest Classifier, SVC.
+
+**Results:** Random Forest Classifier (Accuracy: 98%, F1 Score (0.98, 0.99)
 
 ---
 
